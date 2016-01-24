@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="BlueTheme">
+
+        <item name="background1">@style/blue_background1</item>
+    </style>
+
+    <style name="GreenTheme">
+
+        <item name="background1">@style/green_background1</item>
+    </style>
+
+    <style name="SeaGreenTheme">
+
+        <item name="background1">@style/sea_green_background1</item>
+    </style>
+
+    <style name="DarkGreenTheme">
+
+        <item name="background1">@style/dark_green_background1</item>
+    </style>
+</resources>
